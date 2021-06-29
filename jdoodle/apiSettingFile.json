@@ -1,0 +1,7 @@
+{
+  "JDoodle": {
+    "BaseUrl": "https://api.jdoodle.com/v1/",
+    "ClientID": "[ClientID]",
+    "ClientSecret": "[ClientSecret]"
+  }
+}
